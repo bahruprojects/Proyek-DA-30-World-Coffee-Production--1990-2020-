@@ -2,7 +2,7 @@
 ### Dashboard: 
 [Link](https://lookerstudio.google.com/u/0/reporting/c4b76bba-d61f-46d6-be51-e903ca8e61d6).
 ### Tools: 
-Microsoft Excel (Data Cleaning), Looker Studio (Data Visualizations dan Data Interpretation)
+Microsoft Excel (Data Cleaning), Looker Studio (Data Visualizations dan Data Interpretation).
 ### Dataset: 
 [Link](https://www.kaggle.com/datasets/michals22/coffee-dataset).
 ### Description:
